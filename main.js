@@ -3,7 +3,7 @@
 
 //color for board.
 const boardBorder = '#000';
-const boardBackground = '#555';/*try this, look what happen'#0333'*/
+const boardBackground = '#333';/*try this, look what happen'#0333'*/
 
 //color for snake.
 const snakeColor = 'lightblue';
